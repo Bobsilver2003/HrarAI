@@ -1,4 +1,3 @@
-void main() {
-  print('Enter your name :');
-  print(' your age is : 2822');
+void main(){
+print('Enter your name :');
 }
