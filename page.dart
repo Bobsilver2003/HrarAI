@@ -1,4 +1,4 @@
 void main() {
   print('Enter your name :');
-  print(' your age is :');
+  print(' your age is : 2822');
 }
